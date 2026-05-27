@@ -14,8 +14,6 @@ Computer Science Student • ML Enthusiast • IEEE SBC Secretary
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsdzFqZnRod2JuNDQ3NGszMzhrdXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,nodejs,express,python,cpp,c,git,github,mysql,sklearn,vite,vscode,)](https://skillicons.dev)
-
 ## Connect With Me!!
 
 <p align="left">
@@ -30,4 +28,18 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 <a href="mailto:sneha044l2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+</p>
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,sklearn,js,html,css,react,nodejs,express,firebase,mysql,git,github,vscode,vite&perline=8)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sneha-0409&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" />
 </p>
