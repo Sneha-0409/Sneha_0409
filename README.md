@@ -14,3 +14,4 @@ Computer Science Student • ML Enthusiast • IEEE SBC Secretary
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsdzFqZnRod2JuNDQ3NGszMzhrdXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,python,cpp)](https://skillicons.dev)
