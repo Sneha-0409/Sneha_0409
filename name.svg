@@ -1,0 +1,65 @@
+# Animated Snowflake GitHub Banner
+
+Create a file in your GitHub profile repository named:
+
+`name.svg`
+
+Paste this code inside `name.svg`:
+
+```svg
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F00FF" />
+      <stop offset="100%" stop-color="#E100FF" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" fill="#050816" />
+
+  <text
+    x="50%"
+    y="52%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="url(#grad)"
+    font-size="72"
+    font-family="Montserrat, Arial, sans-serif"
+    font-weight="700">
+    Sneha
+  </text>
+
+  <!-- Snowflakes -->
+  <g fill="white">
+
+    <text x="100" y="20" font-size="20">✻
+      <animate attributeName="y" values="0;180;0" dur="6s" repeatCount="indefinite" />
+    </text>
+
+    <text x="250" y="50" font-size="16">✻
+      <animate attributeName="y" values="0;180;0" dur="8s" repeatCount="indefinite" />
+    </text>
+
+    <text x="400" y="10" font-size="22">✻
+      <animate attributeName="y" values="0;180;0" dur="7s" repeatCount="indefinite" />
+    </text>
+
+    <text x="550" y="40" font-size="18">✻
+      <animate attributeName="y" values="0;180;0" dur="9s" repeatCount="indefinite" />
+    </text>
+
+    <text x="700" y="25" font-size="20">✻
+      <animate attributeName="y" values="0;180;0" dur="6.5s" repeatCount="indefinite" />
+    </text>
+
+  </g>
+</svg>
+```
+
+Then add this in your `README.md`:
+
+```markdown
+<p align="center">
+  <img src="./name.svg" width="700" />
+</p>
+```
