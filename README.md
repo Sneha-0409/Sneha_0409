@@ -1,18 +1,68 @@
+
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 
 <h3 align="center">
 Computer Science Student • ML Enthusiast • IEEE SBC Secretary
 </h3>
-
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=500&size=23&pause=950&color=C8005C&background=05049F8A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DSA%2FC%2B%2B;Python;Data+Science" alt="Typing SVG" />
 </a>
-</p>
-<p align="center">
-<img width="400"
+
+
+## 🌸 A little more about me...
+
+<table>
+<tr>
+<td>
+
+```javascript
+const sneha = {
+  code: ["C++", "C", "Python", "JavaScript", "HTML", "CSS", "React"],
+
+  tools: ["Git", "GitHub", "Firebase", "Node.js", "VS Code"],
+
+  interests: [
+    "Machine Learning",
+    "DSA",
+    "Full Stack Development",
+    "Research"
+  ],
+
+  organizations: {
+    secretary: "IEEE RAS SBC MITS-DU",
+    Member: "IEEE SAC MP-Section",
+    Apprenticeship: "McKinsey Forward Program",
+    Core Member: "Google Developers Group",
+  },
+
+  Projects: [
+    "Zeroly",
+    "CampusImpact-DAO",
+    "Face Attendance System"
+  ],
+
+  OpenSourceContributor: [ 
+     "GSSoC'25'26",
+     "NSoC'26",
+     "SSOC'26"
+],
+  funFact:
+  "I like OpenSource Contribution \n" +
+  "and like building creative tech projects ✨"
+};
+```
+
+</td>
+
+<td width="30%">
+
+<img width="420"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsdzFqZnRod2JuNDQ3NGszMzhrdXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
-</p>
+
+</td>
+</tr>
+</table>
 
 ## Connect With Me!!
 
@@ -42,4 +92,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-0409&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=6" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sneha-0409&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
