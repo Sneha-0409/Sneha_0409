@@ -65,7 +65,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 </table>
 
 ## Connect With Me!!
-
+Open to collaboration, learning, and tech conversations 💫
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-96228632b/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
