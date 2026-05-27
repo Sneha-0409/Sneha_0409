@@ -15,3 +15,19 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s1YWRjbmxsemdpbHJ4MmFsd
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,nodejs,express,python,cpp,c,git,github,mysql,sklearn,vite,vscode,)](https://skillicons.dev)
+
+## Connect With Me!!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sneha-96228632b/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Sneha-0409">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:sneha044l2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
