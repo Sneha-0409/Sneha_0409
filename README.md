@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=999999&color=6CA0FF&center=true&vCenter=true&width=300&height=60&lines=Sneha✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=42&pause=999999&color=6CA0FF&center=true&vCenter=true&width=300&height=60&lines=Sneha" />
 </h1>
 <h3 align="center">
 Computer Science Student • Developer • Problem Solver • Tech Community Leader
