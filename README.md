@@ -18,7 +18,7 @@ Computer Science Student • Developer • Problem Solver • Tech Community Lea
 
 ```javascript
 const sneha = {
-  code: ["C++", "C", "Python", "JavaScript", "HTML", "CSS", "React"],
+  code: ["C++", "C", "Python", "JavaScript", "HTML", "CSS", "React", "Data Science", "Scikit Learn"],
 
   tools: ["Git", "GitHub", "Firebase", "Node.js", "VS Code"],
 
